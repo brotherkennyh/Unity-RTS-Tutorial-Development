@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rising Lands RTS Tutorial.Plugins", "Rising Lands RTS Tutorial.Plugins.csproj", "{40830EF5-AF1A-320D-C4F1-7C5BEA791A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rising Lands RTS Tutorial", "Rising Lands RTS Tutorial.csproj", "{049C7AE8-C743-0FFB-0197-C604C1165210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rising Lands RTS Tutorial.Editor", "Rising Lands RTS Tutorial.Editor.csproj", "{E69654DC-6EF1-19B4-30B8-35A6D2BB6DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40830EF5-AF1A-320D-C4F1-7C5BEA791A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40830EF5-AF1A-320D-C4F1-7C5BEA791A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40830EF5-AF1A-320D-C4F1-7C5BEA791A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40830EF5-AF1A-320D-C4F1-7C5BEA791A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049C7AE8-C743-0FFB-0197-C604C1165210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049C7AE8-C743-0FFB-0197-C604C1165210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049C7AE8-C743-0FFB-0197-C604C1165210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049C7AE8-C743-0FFB-0197-C604C1165210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69654DC-6EF1-19B4-30B8-35A6D2BB6DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69654DC-6EF1-19B4-30B8-35A6D2BB6DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69654DC-6EF1-19B4-30B8-35A6D2BB6DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69654DC-6EF1-19B4-30B8-35A6D2BB6DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
