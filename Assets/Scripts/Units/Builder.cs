@@ -98,7 +98,10 @@ public class Builder : Harvester {
 
     private void CreateBuilding(string buildingName)
     {
+        //sets the position for the temporary building in front of the builder.
         Vector3 buildPoint = new Vector3(transform.position.x, transform.position.y, transform.position.z + 10);
+
+        //creates the building at the given point.
         if (player) player.CreateBuilding(buildingName, buildPoint, this, playingArea);
 
     }

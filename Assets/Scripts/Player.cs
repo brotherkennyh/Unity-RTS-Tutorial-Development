@@ -247,7 +247,7 @@ public class Player : MonoBehaviour {
     public void FindBuildingLocation()
     {
         Vector3 newLocation = WorkManager.FindHitPoint(Input.mousePosition);
-        newLocation.y = 0;
+        //newLocation.y = 0;
         tempBuilding.transform.position = newLocation;
     }
     public void StartConstruction()

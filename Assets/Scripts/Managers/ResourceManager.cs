@@ -36,7 +36,7 @@ namespace RTS
         public static float HeaderWidth { get { return headerWidth; } }
         public static float TextHeight { get { return textHeight; } }
         public static float Padding { get { return padding; } }
-        public static float RayCastLimit { get { return 100; } }
+        public static float RayCastLimit { get { return 200; } }
         public static GameObject GetBuilding(string name)
         {
             return gameObjectList.GetBuilding(name);
